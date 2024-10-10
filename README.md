@@ -1,191 +1,214 @@
-# Preview [https://github.com/premierstacks/php-cs-fixer-stack](https://github.com/premierstacks/php-cs-fixer-stack)
+# Premierstacks Public Preview
 
-This repository gives you a glimpse into the features and benefits of our premium **premierstacks/php-cs-fixer-stack** package.<br />
-By exploring the contents here, you’ll get an overview of what to expect from our full package, so you can make an informed decision before purchasing.
+**This file has been extracted from: [https://github.com/premierstacks/php-cs-fixer-stack](https://github.com/premierstacks/php-cs-fixer-stack)**
 
-## Steps to Explore and Get Started
+Premierstacks is a collection of proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. Because these repositories are private and accessible only through a valid license, we offer this public preview to provide transparency and allow potential users to review the content before making a purchase.
 
-### 1. **Explore the Offer**
+By extracting key documentation and selected sample files to public repositories, we ensure that you can evaluate the quality, structure, and approach of Premierstacks without needing full access. This way, you can make an informed decision about whether our solutions are the right fit for your projects.
 
-Dive into the features and benefits of the **premierstacks/php-cs-fixer-stack** package by browsing through the provided files and documentation.
+To access the complete repositories, along with continuous updates and premium support, a valid Premierstacks license is required.
 
-### 2. **Buy a License**
-
-> **[https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**
-
-If you find the package useful, support the development by purchasing a license. This will grant you access to the full version with all features.
-
-### 3. **Install the Package**
-
-> **[https://github.com/premierstacks/php-cs-fixer-stack](https://github.com/premierstacks/php-cs-fixer-stack)**
-
-Check out the complete package to see all the available features and updates.
-
-Follow the installation instructions provided in the full package repository to get started with **premierstacks/php-cs-fixer-stack**.
-
-## Useful links
-
-**Buy your license here**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Access the source code**: [https://github.com/premierstacks/php-cs-fixer-stack](https://github.com/premierstacks/php-cs-fixer-stack)<br />
-**See previews of other packages**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Explore all premium packages**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+**Purchase a license here: [GitHub Sponsors](https://github.com/sponsors/tomchochola).**
 
 ---
-# [PHP CS Fixer Stack](https://github.com/premierstacks/php-cs-fixer-stack) by [Tomáš Chochola](https://github.com/tomchochola)
 
-Streamline PHP quality with our PHP CS Fixer Stack: tailored rules and easy setup for top-tier code across your PHP projects. Ideal for swift, best-practice integration.
+**Original content starts here!**
 
-Dive into PHP development with confidence using our PHP CS Fixer Stack. Designed to streamline your setup process, this premium suite integrates the latest coding standards, ensuring your projects reflect excellence from the outset. With our simplified configuration, you'll minimize setup time and maximize coding efficiency, enabling you to focus on building robust, high-quality PHP applications. This config is a testament to our commitment to quality, incorporating extensive research and industry best practices. Ideal for developers at any expertise level seeking a reliable, up-to-date tool for maintaining code quality and consistency.
+---
 
-## 👌 Top Reasons to Opt for Our Premium PHP CS Fixer Stack
+# [PHPCSFixer Stack](https://github.com/premierstacks/php-cs-fixer-stack) by [Tomáš Chochola](https://github.com/tomchochola)
 
-By incorporating our Premium PHP CS Fixer Stack into your projects, you're not just adopting a set of rules; you're embracing a philosophy of excellence that distinguishes your work in the realm of PHP development.
+✨ _**Clone and Win!**_
 
-### ⏱️ Setup in Just 5 Minutes
+The PHPCSFixer Stack is a pre-configured set of rules and templates specifically tailored for PHP projects. It streamlines the process of setting up PHP-CS-Fixer, making it easy to enforce consistent coding standards and best practices across your PHP codebase without the hassle of manual configuration.
 
-Kickstart your PHP projects with unparalleled ease. Our PHP CS Fixer Stack is designed for rapid integration, enabling you to implement the latest coding standards in your project swiftly and effortlessly.
+## What is PHPCSFixer Stack?
 
-### 🕒 Hundreds of Hours of Research, So You Don't Have To
+The PHPCSFixer Stack is part of the Premierstacks collection and serves as a foundational tool for ensuring high-quality PHP code across various projects. It provides pre-configured setups for PHP-CS-Fixer, a powerful tool that automatically fixes code style issues according to predefined rules.
 
-Delve into PHP projects equipped with state-of-the-art rules and configurations, honed through extensive research and development. Our premium suite embodies the pinnacle of PHP coding practices, sparing you the extensive effort of staying abreast with the latest standards.
+The stack is structured to handle different environments and project types, whether you're working on a pure PHP application or a Laravel-based project. With specialized configurations for common coding patterns and best practices, it simplifies the process of setting up and maintaining code standards.
 
-### 🎚️ Minimal Setup, Maximum Efficiency
+Unlike manually configuring PHP-CS-Fixer for every project, the PHPCSFixer Stack abstracts the complexity and provides ready-to-use configurations. You only need to install the package and choose the template that best fits your project’s needs. This approach not only saves time but also eliminates the potential for configuration errors, ensuring that all your PHP code adheres to a consistent style across different projects and development environments.
 
-Achieve optimal code quality without the complexity. Our simplified configuration approach means you spend less time on setup and more on coding, enhancing productivity without sacrificing standards.
+## What is Tomchochola
 
-### 📘 Zero Expertise Required
+[https://github.com/tomchochola](https://github.com/tomchochola)
 
-Our configurations are built with all developers in mind, regardless of their PHP CS Fixer familiarity. This accessibility ensures that you can elevate your code quality immediately, regardless of your prior experience with PHP CS standards.
+This is my personal GitHub profile, where you’ll find public documentation and sample repositories for proprietary packages and templates from Premierstacks. These public repositories are designed to give you an overview of the best practices and high-quality code I follow in all my projects.
 
-### 🔄 Continuously Updated
+## What is Premierstacks
 
-Stay ahead of the curve in the ever-evolving PHP landscape. Our configurations are regularly refined to incorporate the latest PHP CS Fixer rules and best practices, ensuring your projects are always in line with industry-leading standards.
+[https://github.com/premierstacks](https://github.com/premierstacks)
 
-### ⚔️ Battle-Tested Reliability
+Premierstacks is a collection of exclusive, proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. It was created to address the common pain points developers face with many open-source projects—quality, consistency, and maintainability. With Premierstacks, you get high-quality tools built with strict attention to detail, designed to help you build and maintain better projects, faster.
 
-Depend on configurations that have been rigorously tested across a spectrum of PHP projects. From small-scale applications to large, complex systems, our PHP CS Fixer Stack provides a reliable foundation for maintaining high code quality.
+## Why Premierstacks?
 
-### 🏆 Premier Quality Guarantee
+I created Premierstacks because I wasn’t satisfied with the quality of many open-source projects. Maintaining high-quality code and ensuring long-term reliability is challenging when you’re not earning from the product. When you pay for something, it means the creator truly cares about its success and is committed to delivering the best possible outcome.
 
-Embrace a PHP CS Fixer solution that reflects a steadfast commitment to excellence. Our configurations go beyond mere tools; they represent a premium standard in PHP development, ensuring your projects are synonymous with quality and professionalism.
+Like Apple’s approach with their closed ecosystem, I believe that true excellence can only be achieved when every detail is under your control. That’s why Premierstacks is proprietary software—it's not just about providing solutions; it’s about ensuring those solutions meet the highest standards.
 
-## 🛡️ License & Usage
+### Why You Should Choose Premierstacks
 
-**Copyright © 2024+ Tomáš Chochola <chocholatom1997@gmail.com> - All Rights Reserved**
+**🚀 Unmatched Quality**
 
-[![License](https://img.shields.io/badge/License-©_Proprietary-blue.svg)](LICENSE.md)
+Our solutions adhere to the highest standards, ensuring clean and maintainable code.
 
-This software is the exclusive property of Tomáš Chochola, protected by copyright laws.<br />
-Although the source code may be accessible, it is not free for use without a valid license.<br />
-A valid license, obtainable through proper channels, is required for any software use.<br />
-For licensing or inquiries, please contact Tomáš Chochola or refer to the GitHub Sponsors page.
+**⚙️ No Setup Hassles**
 
-The full license terms are detailed in the LICENSE.md file within the source code repository.<br />
-The terms are subject to changes. Users are encouraged to review them periodically.
+Pre-configured environments let you start coding immediately—no more complex setups.
 
-**Email:** <chocholatom1997@gmail.com><br />
-**Personal GitHub:** [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub:** [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License:** [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+**📦 Reuse Across Projects**
 
-### Acquiring a License
+Each library and template is built to be reusable, reducing long-term maintenance.
 
-To use this software, you must obtain a valid license available through a monthly subscription on the [Sponsor & License](https://github.com/sponsors/tomchochola).<br />
-This platform has been chosen for its reliability and ease of use, providing a secure and straightforward way to manage your subscription.
+**🔒 Exclusive Resources**
 
-## 🖍️ Highlights
+Premierstacks offers tools you won’t find in typical open-source collections.
 
-- **Cutting-edge PHP CS Fixer Rules**: Incorporates the latest advancements in PHP coding standards.
-- **Simplified Configuration**: Introduces an easy-to-use configuration system for hassle-free setup.
-- **Diverse Environment Support**: Includes configurations tailored to a wide range of PHP projects.
-- **Efficient Exclusion Patterns**: Comes with pre-set exclusion rules for cleaner and more effective code linting.
-- **Code Quality Enforcement**: Promotes best coding practices and ensures high-quality code standards.
+**🛠️ Always Up-to-Date**
 
-## 🎨 Available Configuration Presets
+Receive continuous updates and new features, keeping your projects current.
 
-Choose from a variety of preconfigured presets:
+**💪 Expert Creators**
 
-- **recommended**: Ideal for React projects with TypeScript.
-- **tomchochola**: A specialized configuration used by Tomáš Chochola himself, incorporating custom proprietary docblock sections and other personal coding preferences. This preset serves as a reference or example and may not be directly applicable to other projects without modification.
+Developed by experienced professionals dedicated to quality and excellence.
 
-## 🎬 Get Started
+## License
 
-### 1️⃣ License Acquisition
+**© 2024–Present Tomáš Chochola <chocholatom1997@gmail.com>. All rights reserved.**
 
-Secure your license at [Sponsor & License](https://github.com/sponsors/tomchochola).
+This software is proprietary and licensed under specific terms set by its owner.<br />
+Any form of access, use, or distribution requires a valid and active license.<br />
+For full licensing terms, refer to the LICENSE.md file accompanying this software.<br />
 
-### 2️⃣ Package Installation
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
 
-Add the following to your `composer.json`:
+**See full terms here: [/LICENSE.md](/LICENSE.md)**
 
-```json
-"repositories": [
-    {
-        "type": "git",
-        "url": "https://github.com/premierstacks/php-cs-fixer-stack.git"
-    }
-]
+## Module exports
+
+Here are the available module exports:
+
+```php
+use Premierstacks\PhpCsFixerStack\ConfigFactory;
+use Premierstacks\PhpCsFixerStack\Configs\Premierstacks;
+use Premierstacks\PhpCsFixerStack\Configs\Recommended;
+use Premierstacks\PhpCsFixerStack\FinderFactory;
 ```
 
-Then, execute:
+## Templates
 
-```shell
+Explore the predefined templates for various configurations in the [/templates](/templates) directory. These templates provide quick-start setups for different environments.
+
+**[/templates/recommended.template](/templates/recommended.template)**<br />
+**[/templates/premierstacks.template](/templates/premierstacks.template)**<br />
+
+## Getting Started
+
+**1. Review the documentation and license**
+
+Ensure this package fits your needs and that you agree with the terms.
+
+**2. Obtain a license**
+
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
+
+**3. Install the package**
+
+Setup composer repostory:
+
+```bash
+composer config repositories.premierstacks/php-cs-fixer-stack git https://github.com/premierstacks/php-cs-fixer-stack.git
+```
+
+Install using composer:
+
+```bash
 composer require --dev premierstacks/php-cs-fixer-stack:@dev
 ```
 
-### 3️⃣ Configuration
+**4. Select a template**
 
-Set up your `.php-cs-fixer.php` as follows:
+Choose one of the predefined configuration templates from the [/templates](/templates) directory that best suits your project’s needs.
 
-```js
-<?php
+Use the `cp` command to copy it into your project as `/.php-cs-fixer.php`:
 
-declare(strict_types=1);
-
-use Premierstacks\PhpCsFixerStack\Configs\Recommended;
-use Premierstacks\PhpCsFixerStack\Preset;
-
-return Preset::make(__DIR__, Recommended::config());
+```bash
+cp ./vendor/premierstacks/php-cs-fixer-stack/templates/recommended.template .php-cs-fixer.php
+# or for premierstacks internal use
+cp ./vendor/premierstacks/php-cs-fixer-stack/templates/premierstacks.template .php-cs-fixer.php
 ```
 
-### 4️⃣ Attribution
+**5. CLI**
 
-Please ensure to manually give credits to the authors in your project documentation or wherever appropriate, as per the license agreement.
+Execute commands:
 
-### 5️⃣ Usage
-
-```shell
-# To fix issues
+```bash
+# automatically fix code style issues
 ./vendor/bin/php-cs-fixer fix
 
-# To check for issues
+# perform static analysis
 ./vendor/bin/php-cs-fixer fix --dry-run --diff
 ```
 
-## The Author: Tomáš Chochola
+## About the Creator
 
-_Elite developer crafting exclusive, enterprise-grade software, professional packages, and premium templates to elevate your digital landscape._
+I'm Tomáš Chochola, a software developer dedicated to creating exclusive, enterprise-grade software solutions. I specialize in building packages and templates for PHP, JavaScript, and TypeScript, tailored to streamline development workflows, enforce best practices, and save you time.
 
-Tomáš Chochola is the creator and project visionary behind this project.<br />
-His expertise and innovative approach have been instrumental in shaping the project's direction and ensuring its success.<br />
-Tomáš Chochola's commitment to excellence and his passion for development are reflected in the quality and reliability of the project.
+My mission is to develop reusable solutions that enhance code quality, boost productivity, and ensure that projects remain maintainable and scalable over the long term.
 
-**E-mail**: <chocholatom1997@gmail.com><br />
-**Personal GitHub**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+### Specializations
 
-## 🌐 Discover Tomáš Chochola's GitHub Universe
+**Backend Development:** Expert in PHP and Laravel<br />
+**Frontend Development:** Mastery in TypeScript, React, and JavaScript<br />
+**DevOps:** Proficient in managing Ubuntu and AWS environments<br />
+**Security:** Focused on implementing best practices and enforcing code standards<br />
+**Tooling:** Extensive experience with ESLint, Prettier, PHP CS Fixer, Stylelint, and PHPStan<br />
+**Reusable Solutions:** Creating templates and configuration stacks for optimized development<br />
+**Development Environments:** Fluent in Windows 11 and Ubuntu (WSL2)<br />
 
-Explore the boundless creativity and innovation in [Personal GitHub](https://github.com/tomchochola). As the epicenter of my digital creations, it offers an extensive collection of avant-garde software packages, refined libraries, and polished templates, meticulously crafted to enhance your development journey. Immerse yourself in a world where efficiency and elegance converge, and elevate your projects with tools that redefine excellence.
+## Contact
 
-## 💰 Empower Innovation: Support and Subscribe
+**📧 Email: <chocholatom1997@gmail.com>**<br />
+**💻 Website: [https://premierstacks.com](https://premierstacks.com)**<br />
+**👨 GitHub Personal: [https://github.com/tomchochola](https://github.com/tomchochola)**<br />
+**🏢 GitHub Organization: [https://github.com/premierstacks](https://github.com/premierstacks)**<br />
+**💰 GitHub Sponsors: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**<br />
 
-Your support transcends mere contributions; it's the lifeblood of innovation and growth. By subscribing for premium access or becoming a sponsor, you directly contribute to the advancement of high-caliber software. Embrace the opportunity to be part of a visionary journey by visiting my [Sponsor & License](https://github.com/sponsors/tomchochola).
+## Tree
 
-## 🤝 Join Forces with Tomáš Chochola
+The following is a breakdown of the folder and file structure within this repository. It provides an overview of how the code is organized and where to find key components.
 
-Embark on a collaborative venture with a developer whose passion for perfection knows no bounds. Whether it's for groundbreaking startups, global enterprises, or transformative government projects, my arsenal of skills is at your command. Let's merge visions and craftsmanship to forge software that stands a class apart. Connect with me at <chocholatom1997@gmail.com> for collaborations that transcend conventional boundaries.
+```bash
+.
+├── AUTHORS.md
+├── LICENSE.md
+├── Makefile
+├── README.md
+├── composer.json
+├── eslint.config.js
+├── package.json
+├── phpstan.neon
+├── phpunit.xml
+├── prettier.config.js
+├── src
+│   ├── ConfigFactory.php
+│   ├── Configs
+│   │   ├── Premierstacks.php
+│   │   └── Recommended.php
+│   └── FinderFactory.php
+├── templates
+│   ├── premierstacks.template
+│   └── recommended.template
+└── tests
+    └── Unit
+        ├── ConfigFactoryTest.php
+        ├── Configs
+        │   ├── PremierstacksTest.php
+        │   └── RecommendedTest.php
+        ├── FinderFactoryTest.php
+        └── TestCase.php
+
+6 directories, 21 files
+```
