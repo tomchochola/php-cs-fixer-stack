@@ -182,6 +182,11 @@ The following is a breakdown of the folder and file structure within this reposi
 
 ```bash
 .
+├── .editorconfig
+├── .gitattributes
+├── .gitignore
+├── .php-cs-fixer.php
+├── .prettierignore
 ├── AUTHORS.md
 ├── LICENSE.md
 ├── Makefile
@@ -210,5 +215,5 @@ The following is a breakdown of the folder and file structure within this reposi
         ├── FinderFactoryTest.php
         └── TestCase.php
 
-6 directories, 21 files
+6 directories, 26 files
 ```
